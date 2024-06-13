@@ -7,7 +7,6 @@ Explanation - count number of subarrays with sum < = k and then subtract it with
 
  */
 
-// Not working
 public class CountSubarraysWithSumk {
 
     public static void main(String[] args) {
