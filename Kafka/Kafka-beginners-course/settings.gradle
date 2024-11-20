@@ -1,0 +1,4 @@
+rootProject.name = 'Kafka-beginners-course'
+include 'Kafka-basics'
+include 'Kafka-producer-wikimedia'
+
